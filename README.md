@@ -4,12 +4,9 @@ Aplicação web desenvolvida com HTML, CSS e JavaScript que exibe a hora atual d
 
 O projeto atualiza automaticamente:
 
-a mensagem exibida na tela
-
-a imagem principal
-
-a cor de fundo da página
-
+- A mensagem exibida na tela;
+- A imagem principal;
+- A cor de fundo da página.
 com base no horário do usuário (manhã, tarde ou noite).
 
 🚀 Funcionalidades
@@ -22,17 +19,12 @@ com base no horário do usuário (manhã, tarde ou noite).
 
 🧠 Conceitos aplicados
 
-DOM (getElementById)
-
-Date para obter hora do sistema
-
-Estruturas condicionais (if / else)
-
-Template strings
-
-Alteração dinâmica de atributos (src)
-
-Estilização via JavaScript
+- DOM (getElementById)
+- Date para obter hora do sistema
+- Estruturas condicionais (if / else)
+- Template strings
+- Alteração dinâmica de atributos (src)
+- Estilização via JavaScript
 
 🎯 Objetivo
 
