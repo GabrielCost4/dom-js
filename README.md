@@ -12,10 +12,15 @@ com base no horário do usuário (manhã, tarde ou noite).
 🚀 Funcionalidades
 
 ✔ Exibe a hora atual em tempo real
+
 ✔ Altera a imagem conforme o período do dia
+
 ✔ Muda o tema da página dinamicamente
+
 ✔ Manipula o DOM com JavaScript
+
 ✔ Executa função automaticamente ao carregar a página
+
 
 🧠 Conceitos aplicados
 
