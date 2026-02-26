@@ -7,12 +7,12 @@ O projeto atualiza automaticamente:
 - A mensagem exibida na tela;
 - A imagem principal;
 - A cor de fundo da página.
+  
 com base no horário do usuário (manhã, tarde ou noite).
 
 🚀 Funcionalidades
 
 ✔ Exibe a hora atual em tempo real
-
 ✔ Altera a imagem conforme o período do dia
 
 ✔ Muda o tema da página dinamicamente
